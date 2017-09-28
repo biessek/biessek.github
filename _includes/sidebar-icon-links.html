@@ -1,21 +1,27 @@
 <nav id="sidebar-icon-links">
   {% if site.github.repo %}
     <a id="github-link"
-       class="icon" title="Github Project" aria-label="Github Project"
+       class="icon" title="Github" aria-label="Github"
        href="{{ site.github.repo }}">
-      {% include svg/github.svg %}
-    </a>
-    <a id="github-download-link"
-       class="icon" title="Download" aria-label="Download"
-       href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
-      {% include svg/download.svg %}
-    </a>
+       <i class="fa fa-github" style="font-size:24px"></i>
+      </a>
   {% endif %}
+
+  <a id="facebook"
+    class="icon" title="Facebook" aria-label="Facebook"
+    href="https://www.facebook.com/alebiessek">
+    <i class="fa fa-facebook" style="font-size:24px"></i>   
+  </a>
+  <a id="linkedin"
+    class="icon" title="Linkedin" aria-label="Linkedin"
+    href="https://www.linkedin.com/in/alessandro-biessek-a39bb7a9/">
+    <i class="fa fa-linkedin" style="font-size:24px"></i>   
+  </a>
 
   <a id="subscribe-link"
      class="icon" title="Subscribe" aria-label="Subscribe"
      href="{{ site.baseurl }}/feed.xml">
-    {% include svg/feed.svg %}
+     <i class="fa fa-feed" style="font-size:24px"></i>   
   </a>
 
   {% comment %}
@@ -36,7 +42,7 @@
        class="icon{% if page.url == '/tags' %} active{% endif %}"
        title="Tags" aria-label="Tags"
        href="{{ site.baseurl }}{{ tags_page.url }}">
-      {% include svg/tags.svg %}
+       <i class="fa fa-tags" style="font-size:24px"></i>          
     </a>
   {% endif %}
 
@@ -45,7 +51,7 @@
        class="icon{% if page.url == '/search' %} active{% endif %}"
        title="Search" aria-label="Tags"
        href="{{ site.baseurl }}{{ search_page.url }}">
-      {% include svg/search.svg %}
+       <i class="fa fa-search" style="font-size:24px"></i>          
     </a>
   {% endif %}
 

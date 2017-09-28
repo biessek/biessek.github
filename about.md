@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About
+title: Sobre
 sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  Olá! Sou desenvolvedor Android e Backend, tenho trabalhado com Golang e Kotlin continuamente,<br>  
+  atualmente estou me aventurando no React para expandir minhas habilidades.  
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+###### Se quiser compartilhar algo comigo entre em contato e vamos conversar! :D

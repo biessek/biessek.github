@@ -22,7 +22,7 @@ Uma das primeiras aplicações a utilizar esta técnica é o *Whatsapp*, que imp
 
 ### É esta a proposta da autenticação Passwordless, que promete alguns **benefícios**:    
 <br>
--  **Mais fácil para os usuários.** - Não precisam se preocupar em lembra de uma senha complicada com caracteres alfanuméricos e símbolos.  
+-  **Mais fácil para os usuários.** - Não precisam se preocupar em lembrar de uma senha complicada com caracteres alfanuméricos e símbolos.  
   
 
 -  **Mais seguro.** - Geralmente o usuário repete a senha em diferentes sites(quem nunca?). Os tokens são válidos por um período de tempo, é como se o usuário tivesse uma nova senha a cada sessão. Muito mais difícil de sofrer um ataque de força bruta.  

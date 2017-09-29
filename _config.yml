@@ -2,7 +2,9 @@
 markdown:         kramdown
 highlighter:      rouge
 
-# Setup
+disqus:
+    shortname: biessek
+  
 title:            Alessandro Biessek
 tagline:          ''
 description:      'Programador Android / FullStack'

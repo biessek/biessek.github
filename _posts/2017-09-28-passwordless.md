@@ -31,6 +31,8 @@ Uma das primeiras aplicações a utilizar esta técnica é o *Whatsapp*, que imp
   
 No **Auth0** há uma série de tutoriais para quem deseja testar: [Auth0 Passwordless](https://auth0.com/docs/connections/passwordless)
 
+Além disso o Facebook lançou recentemente o [Account Kit](https://developers.facebook.com/docs/accountkit/?locale=pt_BR) para quem deseja utilizar o login por SMS.
+
 
 Referências:   
 [https://passwordless.net](https://passwordless.net)  

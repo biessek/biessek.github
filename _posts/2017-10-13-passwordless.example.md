@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Autenticação sem senha (Passwordless)"
-last_modified_at:   2017-09-28 21:00:00 -0300
-date:   2017-09-28 21:00:00 -0300
+title:  "Exemplo de autenticação sem senha (Passwordless)"
+last_modified_at:   2017-10-13 21:00:00 -0300
+date:   2017-10-13 21:00:00 -0300
 categories: 
     - Desenvolvimento    
 tags: 
